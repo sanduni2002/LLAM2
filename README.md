@@ -13,8 +13,4 @@ This repository demonstrates how to use the LLaMA-2 model for **text generation*
 - LLaMA-2 model (`meta-llama/Llama-2-7b-chat-hf`)
 - Python
 
-### **Installation:**
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/llama2-text-generation-sentiment.git
-   cd llama2-text-generation-sentiment
+
